@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/derricktogodui/derricktogodui/blob/main/chatGPT-GitHub-banner.jpg)]
+![MasterHead](https://github.com/derricktogodui/derricktogodui/blob/main/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Derrick Kwaku Togodui</h1>
 <h3 align="center">A passionate data analyst from Ghana</h3>
 
